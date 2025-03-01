@@ -1,0 +1,3 @@
+N{S,A,C}
+T{a, b, c}
+P{ S > AC, A > aAb | ab, C > cC | c } 

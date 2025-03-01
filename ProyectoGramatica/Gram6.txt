@@ -1,0 +1,3 @@
+N{A,B}
+T{x,y}
+P{ A > xA, A > xB, B > By, B > y }

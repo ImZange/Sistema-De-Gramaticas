@@ -1,0 +1,4 @@
+N{E,F,G,H}
+T{q,r,s}
+P{ E > FGs | rE |GF | H  ,
+ F > Hq | r , G > Ers | Fq | sE | s , H > GEs| sG | q }
